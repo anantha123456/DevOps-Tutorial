@@ -11,11 +11,17 @@ It defines **phases** that ensure the software meets quality standards and clien
 Here the typical phases of SDLC 
 
 | **1. Requirement Gathering & Analysis** | Understand what the client needs, gather functional & non-functional requirements. |
+
 | **2. Planning** | Estimate cost, resources, time, and risks. Create a project plan. |
+
 | **3. Design** | Create system architecture, database design, and UI/UX wireframes. |
+
 | **4. Development (Coding)** | Developers write code based on design documents using programming languages. |
+
 | **5. Testing** | QA team tests the application for bugs, performance, and security issues. |
+
 | **6. Deployment** | Software is released to production (real-world use). |
+
 | **7. Maintenance** | Fix post-release bugs, provide updates, and improve performance. |
 
 ---
